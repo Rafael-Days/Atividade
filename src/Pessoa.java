@@ -20,11 +20,11 @@ public class Pessoa {
     public void exibirNome() {
         System.out.println("Nome: " + nome);
     }
+
     //data nascimento
     public String getData() {
         return data;
     }
-
     public void setData(String data) {
         this.data = data;
     }
